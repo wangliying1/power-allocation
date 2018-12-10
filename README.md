@@ -1,1 +1,1 @@
-# power-allocation
+# power-allocation using Q-learning
